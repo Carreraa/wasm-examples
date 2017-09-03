@@ -22,6 +22,11 @@
         console.log('2^2 =', square(2))
         console.log('3^2 =', square(3))
         console.log('(2 + 5)^2 =', square(2 + 5))
+      
+      	var resultContent = 'result is ' + '2^2 =' +  square(2) + '    ' + '3^2 =' +  square(3) + '      ' + '(2 + 5)^2 =' + square(2 + 5);
+	var textnode=document.createTextNode(resultContent);
+	document.getElementById("result").appendChild(textnode);
+      
       })
   </script>
 </body>
