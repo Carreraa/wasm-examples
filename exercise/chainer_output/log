@@ -1,0 +1,20 @@
+[
+    {
+        "main/loss": 0.21071359716149282,
+        "main/accuracy": 0.9366337953091685,
+        "validation/main/loss": 0.07631697491565838,
+        "validation/main/accuracy": 0.9760680379746836,
+        "epoch": 1,
+        "iteration": 469,
+        "elapsed_time": 66.449880361557
+    },
+    {
+        "main/loss": 0.06819112027393602,
+        "main/accuracy": 0.9792444029850746,
+        "validation/main/loss": 0.0533190234976856,
+        "validation/main/accuracy": 0.9822982594936709,
+        "epoch": 2,
+        "iteration": 938,
+        "elapsed_time": 137.62506937980652
+    }
+]
